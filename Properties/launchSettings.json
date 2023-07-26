@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pcmodelfbx": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Games - Main\\Steam\\steamapps\\common\\SonicFrontiers\\image\\x64\\raw\\stage\\w6d01\\w6d01_trr_s00\\w6d01_course.pcmodel\""
+    }
+  }
+}
